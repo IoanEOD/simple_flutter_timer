@@ -1,0 +1,6 @@
+{
+  "appTitle": "simple_timer",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

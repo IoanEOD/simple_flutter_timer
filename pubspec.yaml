@@ -14,6 +14,8 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  liquid_progress_indicator: ^0.4.0
+  pausable_timer: ^1.0.0+4
 
 dev_dependencies:
   flutter_test:
